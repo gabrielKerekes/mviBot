@@ -1,0 +1,2 @@
+# mviBot
+school assignment bot
